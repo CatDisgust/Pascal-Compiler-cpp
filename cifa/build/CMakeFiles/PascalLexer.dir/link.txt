@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/PascalLexer.dir/src/lexer.cpp.o CMakeFiles/PascalLexer.dir/src/main.cpp.o CMakeFiles/PascalLexer.dir/src/minimize_dfa.cpp.o CMakeFiles/PascalLexer.dir/src/nfa_to_dfa.cpp.o CMakeFiles/PascalLexer.dir/src/regex_to_nfa.cpp.o  -o PascalLexer 

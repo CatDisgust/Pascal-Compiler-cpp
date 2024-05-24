@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/lexer.h
+vector
+-
+string
+-
+token.h
+../include/token.h
+
+../include/token.h
+string
+-
+
+/data15/DISCOVER_winter2024/xuaf2401/myProj/C-Compiler/cifa/src/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+filesystem
+-
+lexer.h
+/data15/DISCOVER_winter2024/xuaf2401/myProj/C-Compiler/cifa/src/lexer.h
+token.h
+/data15/DISCOVER_winter2024/xuaf2401/myProj/C-Compiler/cifa/src/token.h
+

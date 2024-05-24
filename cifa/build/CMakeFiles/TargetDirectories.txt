@@ -1,0 +1,3 @@
+/data15/DISCOVER_winter2024/xuaf2401/myProj/C-Compiler/cifa/build/CMakeFiles/rebuild_cache.dir
+/data15/DISCOVER_winter2024/xuaf2401/myProj/C-Compiler/cifa/build/CMakeFiles/edit_cache.dir
+/data15/DISCOVER_winter2024/xuaf2401/myProj/C-Compiler/cifa/build/CMakeFiles/PascalLexer.dir
